@@ -1,0 +1,29 @@
+{
+  "name": "avguesser",
+  "version": "0.0.1",
+  "description": "Guess the type of an AV file based on its header",
+  "main": "src/avguesser.js",
+  "scripts": {
+    "build": "tsc && rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "libav.js",
+    "libav",
+    "ffmpeg",
+    "audio",
+    "video",
+    "image",
+    "file",
+    "magic"
+  ],
+  "author": "Yahweasel",
+  "license": "0BSD",
+  "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "rollup": "^4.34.1",
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.3"
+  }
+}
