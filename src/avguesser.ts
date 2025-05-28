@@ -1,4 +1,4 @@
-/*
+/*!
  * Copyright (c) 2025 Yahweasel
  *
  * Permission to use, copy, modify, and/or distribute this software for any
