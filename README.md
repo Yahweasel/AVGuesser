@@ -26,7 +26,7 @@ const result = AVGuesser.guess(await file.slice(0, 12).arrayBuffer());
 console.log(result);
 ```
 
-Results are of one of two forms. If the file could not be identify, the result
+Results are of one of two forms. If the file could not be identified, the result
 is simply
 
 ```typescript
