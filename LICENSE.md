@@ -1,4 +1,4 @@
-ISC.
+0-clause BSD.
 
 The license text for this code is in the source files.
 [LICENSE files do more harm than good](https://yahweasel.github.io/license-files-considered-harmful/).
