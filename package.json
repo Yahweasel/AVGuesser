@@ -1,6 +1,6 @@
 {
   "name": "avguesser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Guess the type of an AV file based on its header",
   "main": "src/avguesser.js",
   "scripts": {
